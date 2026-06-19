@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rzhng-dss.github.io/app-zh-i-game-com-cn/sitemap.xml
